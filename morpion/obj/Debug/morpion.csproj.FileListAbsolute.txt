@@ -1,0 +1,10 @@
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.csprojAssemblyReference.cache
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.Morpion.resources
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.Properties.Resources.resources
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.csproj.GenerateResource.cache
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.csproj.CoreCompileInputs.cache
+C:\Users\Alice\source\repos\morpion\morpion\bin\Debug\morpion.exe.config
+C:\Users\Alice\source\repos\morpion\morpion\bin\Debug\morpion.exe
+C:\Users\Alice\source\repos\morpion\morpion\bin\Debug\morpion.pdb
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.exe
+C:\Users\Alice\source\repos\morpion\morpion\obj\Debug\morpion.pdb
